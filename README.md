@@ -24,7 +24,7 @@ Uses logistic regression to make per-word predictions and evaluates if a user qu
 
 ## Potential improvements
 
-[ ] Improve model
+- [ ] Improve model (open ended)
 
 ## Contributing
 
