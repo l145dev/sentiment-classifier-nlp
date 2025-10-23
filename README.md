@@ -10,7 +10,7 @@ Uses logistic regression to make per-word predictions and evaluates if a user qu
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/l145dev/sentiment-classifier-nlp
+   git clone https://github.com/l145dev/sentiment-classifier-nlp.git
    cd sentiment-classifier-nlp
    ```
 
